@@ -1,0 +1,11 @@
+:root {
+    --color-white: #ffffff;
+    --color-green: #00825c;
+    --color-darkGreen: #245852;
+    --color-light-green:  #01996d;
+    --color-text: #484848;
+    --color-text-alternative:#292929;
+    --color-text-dark: #000000;
+}
+
+/* media breakpoits: 992px 768px 576px 488px */
